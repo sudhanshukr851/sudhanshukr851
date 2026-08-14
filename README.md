@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me :<br><br>I'm currently working on my skil— Core Java, DSA<br> I'm looking to collaborate on **Java + Spring Boot backend projects** <br>I'm currently learning **Java, DSA, DBMS/SQL, and Git & GitHub**<br>Ask me about **Java, DSA basics.<br> Reach me at: *(sudhansh851ukr@gmail.com)*
+## About Me :<br><br>I'm currently working on my skills— Core Java, DSA<br> I'm looking to collaborate on **Java + Spring Boot backend projects** <br>I'm currently learning **Java, DSA, DBMS/SQL, and Git & GitHub**<br>Ask me about **Java, DSA basics.<br> Reach me at: *(sudhanshukr851@gmail.com)*
 
 
 ## 🌐 Socials:
